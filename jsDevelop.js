@@ -1,3 +1,4 @@
-function onDevBranch() {
-	return 'U r on the dev branch'
+let a = 5
+function onDevBranch(a) {
+	return 'U' + a
 }
